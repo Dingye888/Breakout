@@ -1,9 +1,7 @@
-Comp313
+# Breakout
 
-Dingye Wang
+Developed with Unreal Engine 4.
 
-Assignment: 1
+Blueprint discription can be found on - https://youtu.be/V9kcaQ51SiU
 
-Game: Breakout
-
-Vidio link:	https://youtu.be/V9kcaQ51SiU
+This game is created as a new breakout Gamemode.
